@@ -1,5 +1,5 @@
 # Stable diffusion Z Colab
-Colab adaptations AUTOMATIC1111 Webui and Dreambooth, train your model using this easy simple and fast colab, all you have to do is enter you huggingface token once, and it will cache all the files in GDrive, including the trained model and you will be able to use it directly from the colab, make sure you use high quality reference pictures for the training, enjoy !!
+It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab and have a lighter and cleaner environment, have fun !!
  
 
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
