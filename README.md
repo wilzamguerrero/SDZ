@@ -4,6 +4,6 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
 <p align="center">
-  <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ.png">
+  <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZz.png">
 </p>
 
