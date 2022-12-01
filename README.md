@@ -4,6 +4,6 @@ Colab adaptations AUTOMATIC1111 Webui and Dreambooth, train your model using thi
 
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
 <p align="center">
-  <img src="https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dreambooth/1.jpg">
+  <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ.png">
 </p>
 
