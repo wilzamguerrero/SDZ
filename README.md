@@ -1,5 +1,5 @@
 # Stable diffusion Z Colab
-It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab with the custom path directory, easy and simply, just click on the icon, have fun !!
+It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab with the custom path directory, easy and simply, just click on the icon, dont work with models V2 yet, have fun !!
  
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
 <p align="center">
