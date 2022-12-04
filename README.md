@@ -17,8 +17,7 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
  &nbsp;
  &nbsp;
 ----------------------
-<h1 align="left">
-</a>Many thanks for the help received, credits for so good implementation and ideas.</h2>
+<div style="text-align: right"> your-text-here 
  
 - https://github.com/TheLastBen/fast-stable-diffusion
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
@@ -45,6 +44,6 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (and many others that maybe i dont know but is part of all of this ideas)
 
-</h1>
+</div>
 
 
