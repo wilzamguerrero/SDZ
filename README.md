@@ -17,6 +17,24 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
  &nbsp;
  &nbsp;
  ----------------------
+  
+<li>Install the dependencies:</li>
+</ol>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="# Debian-based:
+sudo apt install wget git python3 python3-venv
+# Red Hat-based:
+sudo dnf install wget git python3
+# Arch-based:
+sudo pacman -S wget git python3"><pre><span class="pl-c"><span class="pl-c">#</span> Debian-based:</span>
+sudo apt install wget git python3 python3-venv
+<span class="pl-c"><span class="pl-c">#</span> Red Hat-based:</span>
+sudo dnf install wget git python3
+<span class="pl-c"><span class="pl-c">#</span> Arch-based:</span>
+sudo pacman -S wget git python3</pre></div>
+<ol start="2" dir="auto"> 
+  
+  
+  
 Pre installed extensions
 - depthmap2mask
 - dreambooth <WIP>
