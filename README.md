@@ -23,8 +23,7 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 ✔️ depthmap2mask
 ❌ dreambooth ---WIP 
 ```
-<details>
-<summary><h3>©️ Many thanks for the help received, credits for so good implementation and ideas to below.</h3></summary>
+<details><summary><h3>©️ Many thanks for the help received, credits for so good implementation and ideas to below.</h3></summary>
 
 - https://github.com/TheLastBen/fast-stable-diffusion
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
@@ -50,7 +49,6 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 - https://github.com/KichangKim/DeepDanbooru
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (and many others that maybe i dont know but is part of all of this ideas)
-  
  </details>
 
 
