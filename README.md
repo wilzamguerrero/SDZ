@@ -19,9 +19,9 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 ----------------------
 ```
 >>> Pre installed extensions
-  
-✔️ depthmap2mask
+ 
 ✔️ painthua
+✔️ depthmap2mask
 ❌ dreambooth ---WIP 
 ```
 <details><summary><h3>©️ Credits for so good implementation, help and ideas to below.</h3></summary>
