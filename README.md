@@ -3,20 +3,8 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 
 <p>More information and tools about ai in desing&nbsp;&nbsp;<a href="https://cutt.ly/iadis" rel="nofollow"><img src="https://camo.githubusercontent.com/353dc0088027def780cf08f3597526351ed0e6f6199c9f8173d4941ca6f8d320/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361792532305468616e6b732d212d3145414544422e737667" alt="cutt.ly/iadis" style="max-width: 100%;"></a></p>
 
-<div class="shareon">
-  <a class="facebook"></a>
-  <a class="linkedin"></a>
-  <a class="mastodon"></a>
-  <!-- FB App ID is required for the Messenger button to function -->
-  <a class="messenger" data-fb-app-id="0123456789012345"></a>
-  <a class="odnoklassniki"></a>
-  <a class="pinterest"></a>
-  <a class="pocket"></a>
-  <a class="reddit"></a>
-  <a class="telegram"></a>
-  <a class="twitter"></a>
-  <a class="viber"></a>
-  <
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/buttons/github-buttons/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch buttons/github-buttons on GitHub">Watch</a>
 
 <br>
 <br>
