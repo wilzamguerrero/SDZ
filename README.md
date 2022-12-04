@@ -16,6 +16,10 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
  &nbsp;
  &nbsp;
  &nbsp;
+ ----------------------
+Pre isntalled extensions
+- depthmap2mask
+- dreambooth WIP
 ----------------------
 Many thanks for the help received, credits for so good implementation and ideas.
  
