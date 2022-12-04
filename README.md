@@ -8,3 +8,29 @@ More information and tools here. https://cutt.ly/iadis
   <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ3.png">
 </p>
 
+##Many thanks for the help received, credits for so good implementation and ideas.
+- https://github.com/TheLastBen/fast-stable-diffusion
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- https://github.com/CompVis/stable-diffusion, https://github.com/CompVis/taming-transformers
+- https://github.com/d8ahazard/sd_dreambooth_extension
+- https://github.com/crowsonkb/k-diffusion.git
+- https://github.com/TencentARC/GFPGAN.git
+- https://github.com/sczhou/CodeFormer
+- https://github.com/xinntao/ESRGAN
+- https://github.com/JingyunLiang/SwinIR
+- https://github.com/mv-lab/swin2sr
+- https://github.com/Hafiidz/latent-diffusion
+- https://github.com/Doggettx/stable-diffusion, original idea for prompt editing.
+- https://github.com/invoke-ai/InvokeAI (originally http://github.com/lstein/stable-diffusion)
+- https://github.com/rinongal/textual_inversion (we're not using his code, but we are using his ideas).
+- https://github.com/jquesnelle/txt2imghd
+- https://github.com/parlance-zz/g-diffuser-bot
+- https://github.com/pharmapsychotic/clip-interrogator
+- https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch
+- https://github.com/facebookresearch/xformers
+- https://github.com/KichangKim/DeepDanbooru
+- Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
+- (and many other that maybe i dont know but is part of all of this ideas)
+
+
+
