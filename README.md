@@ -5,12 +5,14 @@ More information and tools here. https://cutt.ly/iadis
 
  &nbsp;
  &nbsp;
+ &nbsp;
 
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
 <p align="center">
   <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ3.png">
 </p>
   
+ &nbsp;
  &nbsp;
  &nbsp;
 ----------------------
