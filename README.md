@@ -1,7 +1,7 @@
 # Stable diffusion Z Colab
 It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab with the custom path directory, easy and simply, just click on the icon, dont work with models V2 yet, have fun !!
 
-More information and tools here. <a href="https://saythanks.io/to/cb%40256bit.org" rel="nofollow"><img src="https://camo.githubusercontent.com/353dc0088027def780cf08f3597526351ed0e6f6199c9f8173d4941ca6f8d320/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361792532305468616e6b732d212d3145414544422e737667" alt="Say Thanks!" data-canonical-src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" style="max-width: 100%;"></a>
+More information and tools here ==> <a href="https://cutt.ly/iadis" rel="nofollow"><img src="https://camo.githubusercontent.com/353dc0088027def780cf08f3597526351ed0e6f6199c9f8173d4941ca6f8d320/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361792532305468616e6b732d212d3145414544422e737667" alt="Say Thanks!" data-canonical-src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" style="max-width: 100%;"></a>
 
  &nbsp;
  &nbsp;
