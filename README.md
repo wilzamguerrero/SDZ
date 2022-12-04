@@ -1,5 +1,4 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
 # Stable diffusion Z Colab
 It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab with the custom path directory, easy and simply, just click on the icon, dont work with models V2 yet, have fun !!
@@ -8,6 +7,9 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/buttons/github-buttons/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch buttons/github-buttons on GitHub">Watch</a>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <br>
 <br>
