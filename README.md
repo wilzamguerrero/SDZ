@@ -23,7 +23,6 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 ✔️ depthmap2mask
 ❌ dreambooth ---WIP 
 ```
-
 <details>
 <summary><h3>©️ Many thanks for the help received, credits for so good implementation and ideas to below.</h3></summary>
 
