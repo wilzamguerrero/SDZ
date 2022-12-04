@@ -5,7 +5,6 @@ More information and tools <a href="https://cutt.ly/iadis" rel="nofollow"><img s
 
 <br>
 <br>
-<br>
 
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
 <p align="center">
