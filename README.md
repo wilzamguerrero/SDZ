@@ -3,7 +3,8 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 
 More information and tools here. https://cutt.ly/iadis
 
-
+ &nbsp;
+ &nbsp;
 
 <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
 <p align="center">
