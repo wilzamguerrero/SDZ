@@ -10,10 +10,14 @@ More information and tools here. https://cutt.ly/iadis
   <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ3.png">
 </p>
   
-
+ 
+   
+   
+   
+  
   ----------------------
 
- <h2 dir="auto"><a id="user-content-credits" class="anchor" aria-hidden="true" href="#credits"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>Many thanks for the help received, credits for so good implementation and ideas.</h2>
+ <h2></a>Many thanks for the help received, credits for so good implementation and ideas.</h2>
  
 - https://github.com/TheLastBen/fast-stable-diffusion
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
