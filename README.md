@@ -3,7 +3,7 @@
 # Stable diffusion Z Colab
 It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab with the custom path directory, easy and simply, just click on the icon, work with models V1.5 and V2.1, have fun !!
 
-<p>More information and tools about &nbsp;<a href="https://cutt.ly/aidesign" rel="nofollow"><img src="https://img.shields.io/badge/%E2%9A%AA%20AI%20-%26%20Design-blue" alt="cutt.ly/aidesign" style="max-width: 100%;"></a></p>
+<p>More information and tools about &nbsp;<a href="https://cutt.ly/aidesign" rel="nofollow"><img src="https://img.shields.io/badge/%E2%9A%AA%20AI%20-%26%20Design-blue" alt="https://wilzamguerrero.ml/Stable-Diffusion-Z-f99cc3fb50374ffda3949087ab85f3a4" style="max-width: 100%;"></a></p>
 
 <br>
 <br>
