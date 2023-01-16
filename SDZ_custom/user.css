@@ -260,7 +260,7 @@
 }
 
 .dark .progressDiv {
-    background-color: rgb(30 30 30 / var(--tw-bg-opacity));
+    background: rgb(30 30 30 / var(--tw-bg-opacity));
 }
 
 
