@@ -161,7 +161,7 @@
 }
 
 .dark .dark\:bg-gray-900 {
-    --tw-bg-opacity: 1;
+25    --tw-bg-opacity: 1;
     background-color: rgb(40 40 40 / var(--tw-bg-opacity));
 }
 
@@ -254,3 +254,13 @@
     --tw-bg-opacity: 1;
     background-color: rgb(45 45 45 / var(--tw-bg-opacity));
 }
+
+.dark .livePreview {
+    background-color: rgb(30 30 30 / var(--tw-bg-opacity));
+}
+
+.dark .progressDiv {
+    background-color: rgb(30 30 30 / var(--tw-bg-opacity));
+}
+
+
