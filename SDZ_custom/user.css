@@ -291,5 +291,11 @@ box-shadow: 6px 0 6px 0px rgb(28 28 28 / 0%), -6px 0 6px 0px rgb(28 28 28 / 0%) 
     gap: 0.4em;
 }
 
+div.svelte-10ogue4>*:first-child {
+    border-bottom-left-radius: .5rem!important;
+    border-top-left-radius: .5rem!important;
+    border-top-right-radius: .5rem!important;
+    border-bottom-right-radius: .5rem!important;
+}
 
 
