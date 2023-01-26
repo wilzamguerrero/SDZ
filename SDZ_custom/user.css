@@ -252,19 +252,19 @@
 
 .dark .gr-panel {
     --tw-bg-opacity: 1;
-    background-color: rgb(45 45 45 / var(--tw-bg-opacity));
+    background-color: rgb(45 45 45 / var(--tw-bg-opacity)) !important;
 }
 
 .dark .livePreview {
-    background-color: rgb(30 30 30 / var(--tw-bg-opacity));
+    background-color: rgb(30 30 30 / var(--tw-bg-opacity)) !important;
 }
 
 .dark .progressDiv {
-    background: rgb(30 30 30 / var(--tw-bg-opacity));
+    background: rgb(30 30 30 / var(--tw-bg-opacity)) !important;
 }
 
 .dark .gr-compact {
-    background-color: rgb(40 40 40 / var(--tw-bg-opacity));
+    background-color: rgb(40 40 40 / var(--tw-bg-opacity)) !important;
 }
 
 .dark fieldset span.text-gray-500, .dark .gr-block.gr-box span.text-gray-500, .dark label.block span {
@@ -297,5 +297,32 @@ div.svelte-10ogue4>*:first-child {
     border-top-right-radius: .5rem!important;
     border-bottom-right-radius: .5rem!important;
 }
+
+
+.dark .cover-bg.svelte-5usjvi {
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(40 40 40 / var(--tw-bg-opacity)) !important;
+}
+
+
+.cover-bg.svelte-5usjvi {
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(40 40 40 / var(--tw-bg-opacity)) !important;
+}
+
+
+
+.eta-bar.svelte-5usjvi {
+    position: absolute !important;
+    inset: 0 !important;
+    z-index: 10 !important;
+    transform-origin: left !important;
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(40 40 40 / var(--tw-bg-opacity)) !important;
+    opacity: .8 !important;
+}
+
+
+
 
 
