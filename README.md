@@ -22,6 +22,7 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
  
 ✔️ painthua
 ✔️ depthmap2mask
+✔️ pix2pix
 ✔️ dreambooth
 ```
 <details><summary><h3>©️ Credits for so good implementation, help and ideas to below.</h3></summary>
