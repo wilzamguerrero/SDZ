@@ -18,8 +18,8 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
  &nbsp;
 ----------------------
 ```
->>> FIX extensions
- 
+>>> with these extensions activated and ready.
+
 ✔️ painthua
 ✔️ depthmap2mask
 ✔️ pix2pix
