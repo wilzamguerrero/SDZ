@@ -277,7 +277,6 @@ box-shadow: 6px 0 6px 0px rgb(28 28 28 / 0%), -6px 0 6px 0px rgb(28 28 28 / 0%) 
 }
 
 #quicksettings > div, #quicksettings > fieldset {
-    max-width: 28em !important;
     min-width: 28em !important;
     padding: 1em !important;
     border: none;
