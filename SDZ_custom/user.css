@@ -11,12 +11,13 @@
 }
 
 #quicksettings .gr-box > div > div > input.gr-text-input {
-    top: 1.88em;
+    top: 0em;
 }
 
 #quicksettings .gr-box > input[type="range"] {
-    top: 3.5em;
-    position: absolute;
+    /* padding-bottom: 1em !important; */
+    /* top: 3.5em; */
+    /* position: absolute; */
 }
 
 .dark .dark\:bg-gray-950 {
