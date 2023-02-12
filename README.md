@@ -10,7 +10,7 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 
 <p align="center">
   <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
-  <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZanim2.gif" alt="image">
+  <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ3.png" alt="image">
 </a></p>
   
  &nbsp;
