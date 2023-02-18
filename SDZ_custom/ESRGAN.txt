@@ -1,3 +1,0 @@
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-BrightenRedux_200k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKDDetoon_97500_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-YandereInpaint_3750
