@@ -51,4 +51,4 @@ https://huggingface.co/uwg/upscaler/resolve/main/SwinIR/003_realSR_BSRGAN_DFOWMF
 https://huggingface.co/uwg/upscaler/resolve/main/SwinIR/Swin2SR_ClassicalSR_X2_64.pth
 https://huggingface.co/uwg/upscaler/resolve/main/SwinIR/Swin2SR_ClassicalSR_X4_64.pth
 https://huggingface.co/uwg/upscaler/resolve/main/SwinIR/Swin2SR_CompressedSR_X4_48.pth
-https://huggingface.co/uwg/upscaler/resolve/main/
+https://huggingface.co/uwg/upscaler/resolve/main/SwinIR/Swin2SR_RealworldSR_X4_64_BSRGAN_PSNR.pth
