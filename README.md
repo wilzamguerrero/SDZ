@@ -9,7 +9,7 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 <br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb">
+  <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ.ipynb?theme=dark">
   <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ3.png" alt="image">
 </a></p>
   
