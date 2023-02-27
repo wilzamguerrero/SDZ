@@ -167,6 +167,25 @@ div.svelte-10ogue4>*:first-child {
 
 
 
+.object-contain {
+    object-fit: contain;
+    background-color: #242424 !important;
+}
+
+
+div.svelte-10ogue4>*:first-child {
+    background-color: #242424;
+    border-top-left-radius: .5rem!important;
+    border-top-right-radius: .5rem!important;
+}
+
+
+.dark .cover-bg.svelte-5usjvi {
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(24 24 24 / var(--tw-bg-opacity)) !important;
+}
+
+
 
 
 
