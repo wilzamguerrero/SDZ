@@ -11,7 +11,7 @@
     /*ENDCOLORPICKERS*/
     --UI_radius: 18;
     --left_pannel_width: 42;
-    --cards_size: 50;
+    --cards_size: 25;
     /*BREAKFILEREADER*/
     --left-column: calc(20px *var(--left_pannel_width));
     
