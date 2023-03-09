@@ -186,7 +186,9 @@ div.svelte-10ogue4>*:first-child {
 }
 
 
-
+.dark .dark\:bg-gray-200, .dark .bg-gray-200.\!text-gray-700, #txt2img_toprow, #txt2img_gallery_container .livePreview {
+    background-color: #242424 !important;
+}
 
 
 
