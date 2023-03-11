@@ -190,7 +190,10 @@ div.svelte-10ogue4>*:first-child {
     background-color: #242424 !important;
 }
 
-
+.dark .gradio-container *, .dark .gr-compact *, .dark .rounded-t-lg, .dark .tabitem *, .dark .flex-wrap *, .dark .svelte-10ogue4 > .flex-col {
+    border-radius: calc(0.25px *var(--UI_radius)) !important;
+    background-color: #242424 !important;
+}
 
 
 
@@ -340,7 +343,7 @@ div.svelte-10ogue4>*:first-child {
 .dark .bg-gray-200.\!text-gray-700,
 #txt2img_toprow,
 #txt2img_gallery_container .livePreview {
-  background-color: transparent !important;
+  background-color: #242424 !important;
 }
 
 /* Galleries */
