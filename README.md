@@ -20,28 +20,16 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 ```
 >>> with these extensions activated and ready.
 
-| Columna 1 | Columna 2 |
-|-----------|-----------|
-| Texto 1a  | Texto 1b  |
-| Texto 2a  | Texto 2b  |
-| Texto 3a  | Texto 3b  |
+✔️ painthua	               ✔️ tagcomplete
+✔️ depthmap2mask	         ✔️ kohya
+✔️ dreambooth	             ✔️ controlnet
+✔️ pix2pix	               ✔️ openpose editor
+✔️ ultimate upscale	       ✔️ posex
+✔️ civitai browser	       ✔️ Aspect Ratio selector
+✔️ civitai helper	         ✔️ depth lib
+✔️ images browser	         ✔️ two shot
+![image](https://user-images.githubusercontent.com/110712636/224574250-3d9ceabe-1ccf-4f49-8151-2850561443ec.png)
 
-✔️ painthua
-✔️ depthmap2mask
-✔️ dreambooth
-✔️ pix2pix
-✔️ ultimate upscale
-✔️ civitai browser
-✔️ civitai helper
-✔️ images browser
-✔️ tagcomplete
-✔️ kohya
-✔️ controlnet
-✔️ openpose editor
-✔️ posex
-✔️ Aspect Ratio selector
-✔️ depth lib
-✔️ two shot
 ```
 <details><summary><h3>©️ Credits for so good implementation, help and ideas to below.</h3></summary>
 
