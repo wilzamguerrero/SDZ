@@ -26,9 +26,16 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 ✔️ pix2pix
 ✔️ ultimate upscale
 ✔️ civitai browser
+✔️ civitai helper
+✔️ images browser
+✔️ tagcomplete
 ✔️ kohya
 ✔️ controlnet
-✔️ openpose-editor
+✔️ openpose editor
+✔️ posex
+✔️ Aspect Ratio selector
+✔️ depth lib
+✔️ two shot
 ```
 <details><summary><h3>©️ Credits for so good implementation, help and ideas to below.</h3></summary>
 
