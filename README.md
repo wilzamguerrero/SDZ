@@ -20,6 +20,12 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
 ```
 >>> with these extensions activated and ready.
 
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+| Texto 1a  | Texto 1b  |
+| Texto 2a  | Texto 2b  |
+| Texto 3a  | Texto 3b  |
+
 ✔️ painthua
 ✔️ depthmap2mask
 ✔️ dreambooth
