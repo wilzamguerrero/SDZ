@@ -88,8 +88,8 @@ body {
   width: 200px;
   font-size: 15px;
   position: absolute;
-  bottom: 0%;
-  right: 0%;
+  top: 2%;
+  right: 1%;
   background-color: #333333;
   color: #818181;
   text-align: center;
