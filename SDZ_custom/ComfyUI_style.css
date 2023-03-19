@@ -179,3 +179,10 @@ button.comfy-settings-btn {
 		margin-top: -70px;
 	}
 }
+
+.graphdialog button {
+    margin-top: 3px;
+    vertical-align: top;
+    background-color: #222 !important;
+    border: 0;
+}
