@@ -1,0 +1,12 @@
+.wrap.svelte-gjihhp {
+    display: none !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: var(--layer-5);
+    border-radius: var(--block-radius);
+    background: var(--background-fill-primary);
+    padding: 0 var(--size-6);
+    max-height: var(--size-screen-h);
+    overflow: hidden;
+}
