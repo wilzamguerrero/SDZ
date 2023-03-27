@@ -52,6 +52,18 @@
     background-repeat: no-repeat;
 }
 
+#quicksettings:before {
+    content: '' !important;
+    display: block;
+    background: none !important;
+    /* width: 129px !important; */
+    /* height: 26px !important; */
+    /* z-index: 1000 !important; */
+    /* margin-right: 36px !important; */
+    /* margin-left: 16px !important; */
+    /* margin-top: 12px !important; */
+}
+
 
 
 
