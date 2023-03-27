@@ -8,7 +8,7 @@ https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_CountryRoads_377000_G
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_fatal_Anime_500000_G.pth
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Fatality_Comix_260000_G.pth
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_foolhardy_Remacri.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Nickelback_70000G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NickelbackFS_72000_G.pth
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Siax_200k.pth
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKDSuperscale_Artisoft_120000_G.pth
