@@ -10,3 +10,49 @@
     max-height: var(--size-screen-h);
     overflow: hidden;
 }
+
+
+[id$='2img_prompt'] textarea {
+    color: #999999 !important;
+    max-height: 84px;
+    overflow-y: auto;
+}
+
+
+[id$='2img_prompt'] textarea:focus {
+    color: #2f85ff !important;
+}
+
+
+[id$='2img_neg_prompt'] textarea {
+    color: #999999 !important;
+    max-height: 84px;
+    overflow-y: auto;
+}
+
+
+[id$='2img_neg_prompt'] textarea:focus {
+    color: #2f85ff !important;
+    max-height: 84px;
+    overflow-y: auto;
+}
+
+.gradio-container {
+    font-size: var(--fontSize);
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    background-image: radial-gradient(
+    circle 600px at calc(100% - 300px) 300px,
+    #141414,
+    #141414
+  );
+    background-repeat: no-repeat;
+}
+
+
+
+
+
