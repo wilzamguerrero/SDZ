@@ -53,6 +53,7 @@
 }
 
 #quicksettings:before {
+    position: fixed !important;
     content: '' !important;
     display: block;
     background: none !important;
@@ -63,6 +64,39 @@
     margin-left: 0px !important; */
     margin-top: 0px !important; */
 }
+
+
+ #tabs > div:first-child {
+    /* position: fixed; */
+    /* top: 90px; */
+    z-index: 1000;
+    flex-wrap: nowrap;
+    width: 100%;
+    border: none;
+}
+
+
+#quicksettings {
+    /* position: fixed; */
+    z-index: 10000;
+    flex-wrap: nowrap;
+    top: 12px;
+    display: flex;
+    align-items: center;
+}
+
+#tabs > .tabitem {
+    z-index: 1000;
+    background: transparent;
+    border: none;
+    padding: var(--padding);
+    margin-top: 0px;
+}
+
+
+
+
+
 
 
 
