@@ -1,0 +1,135 @@
+.dark {
+
+	--body-background-fill: #383838;
+	--background-fill-primary: #2a2a2a;
+	--background-fill-secondary: #2a2a2a;
+	--border-color-accent: #6c6c6c;
+	--border-color-primary: #2e2e2e;
+	--slider-color: #00ffcc;
+	--input-background-fill: #2e2e2e;
+	--input-border-color-focus: #00ffcc;
+	--checkbox-label-background-fill: linear-gradient(to top, #2e2e2e, #2e2e2e);
+	--checkbox-label-background-fill-hover: linear-gradient(to top, #323232, #323232);
+	--button-primary-background-fill: linear-gradient(to bottom right, #00ffcc, #00ffcc);
+	--button-primary-background-fill-hover: linear-gradient(to bottom right, #5a5a5a, #5a5a5a);
+	--button-primary-border-color: #00ffcc;
+	--button-primary-border-color-hover: #00ffcc;
+	--loader-color: var(--color-accent);
+	--checkbox-border-color-selected: #00ffcc;
+	--checkbox-background-color-focus: #97ffea;
+	--checkbox-background-color-selected: #00ffcc;
+	--radio-circle: url(
+  "data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='black' xmlns='http://www.w3.org/2000/svg'%3e%3ccircle cx='8' cy='8' r='3'/%3e%3c/svg%3e");
+	--checkbox-check: url(
+  "data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='black' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3e%3c/svg%3e");
+	--button-secondary-background-fill: linear-gradient(to bottom right, #404040, #404040);
+	--button-secondary-background-fill-hover: linear-gradient(to bottom right, #00ffcc, #00ffcc);
+	--button-secondary-border-color: #2a2a2a;
+	--block-label-text-color: #00ffcc;
+
+
+    --primary-50: #e2fff9;
+    --primary-100: #befff2;
+    --primary-200: #aaffed;
+    --primary-300: #75ffe3;
+    --primary-400: #3cffd7;
+    --primary-500: #17ffcf;
+    --primary-600: #0ce7ba;
+    --primary-700: #0dc59f;
+    --primary-800: #129d80;
+    --primary-900: #137c67;
+    --primary-950: #136e5c;
+
+    --secondary-50: #e2fff9;
+    --secondary-100: #befff2;
+    --secondary-200: #aaffed;
+    --secondary-300: #75ffe3;
+    --secondary-400: #3cffd7;
+    --secondary-500: #17ffcf;
+    --secondary-600: #0ce7ba;
+    --secondary-700: #0dc59f;
+    --secondary-800: #129d80;
+    --secondary-900: #137c67;
+    --secondary-950: #136e5c;
+
+    --neutral-50: #f9fafb;
+    --neutral-100: #f1f1f1;
+    --neutral-200: #e9e9e9;
+    --neutral-300: #dbdbdb;
+    --neutral-400: #adadad;
+    --neutral-500: #7e7e7e;
+    --neutral-600: #606060;
+    --neutral-700: #4a4a4a;
+    --neutral-800: #323232;
+    --neutral-900: #242424;
+    --neutral-950: #161616;
+
+
+	--body-text-color: #d5d5d5;
+
+
+}
+
+
+
+div.svelte-19hvt5v {
+    display: flex;
+    position: relative;
+    border: 3px solid #2e2e2e;
+    border-top: none;
+    border-bottom-right-radius: var(--container-radius);
+    border-bottom-left-radius: var(--container-radius);
+    padding: var(--block-padding);
+}
+
+
+.tab-nav.svelte-1g805jl {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    border-bottom: 3px solid #2e2e2e;
+    white-space: nowrap;
+}
+
+
+.selected.svelte-1g805jl {
+    border-color: #2e2e2e;
+    background: var(--background-fill-primary);
+    color: var(--body-text-color);
+}
+
+button.svelte-1g805jl {
+    margin-bottom: -1px;
+    border: 3px solid transparent;
+    border-color: transparent;
+    border-bottom: none;
+    border-top-right-radius: var(--container-radius);
+    border-top-left-radius: var(--container-radius);
+    padding: var(--size-1) var(--size-4);
+    color: var(--body-text-color-subdued);
+    font-weight: var(--section-header-text-weight);
+    font-size: var(--section-header-text-size);
+}
+
+.primary.svelte-1ipelgc {
+    border: var(--button-border-width) solid #525252;
+    background: var(--button-primary-background-fill);
+    color: #2c2c2c;
+}
+
+
+.gradio-button.generate-box-skip, .gradio-button.generate-box-interrupt {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    display: none;
+    background: #2a2a2a;
+}
+
+.secondary.svelte-1ipelgc:hover, .secondary[disabled].svelte-1ipelgc {
+    border-color: var(--button-secondary-border-color-hover);
+    background: var(--button-secondary-background-fill-hover);
+    color: #2a2a2a;
+}
+
+
