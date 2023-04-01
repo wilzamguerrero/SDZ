@@ -16,7 +16,7 @@
 	--button-primary-border-color-hover: #00ffcc;
 	--loader-color: var(--color-accent);
 	--checkbox-border-color-selected: #00ffcc;
-	--checkbox-background-color-focus: #97ffea;
+	--checkbox-background-color-focus: #2a2a2a;
 	--checkbox-background-color-selected: #00ffcc;
 	--radio-circle: url(
   "data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='black' xmlns='http://www.w3.org/2000/svg'%3e%3ccircle cx='8' cy='8' r='3'/%3e%3c/svg%3e");
@@ -26,6 +26,7 @@
 	--button-secondary-background-fill-hover: linear-gradient(to bottom right, #00ffcc, #00ffcc);
 	--button-secondary-border-color: #2a2a2a;
 	--block-label-text-color: #00ffcc;
+	
 
 
     --primary-50: #e2fff9;
