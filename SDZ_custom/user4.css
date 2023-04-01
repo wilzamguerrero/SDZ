@@ -63,9 +63,9 @@
     --neutral-800: #323232;
     --neutral-900: #242424;
     --neutral-950: #161616;
-
-
-	--body-text-color: #d5d5d5;
+	
+	
+    --body-text-color: #d5d5d5;
 
 
 }
@@ -130,6 +130,25 @@ button.svelte-1g805jl {
     border-color: var(--button-secondary-border-color-hover);
     background: var(--button-secondary-background-fill-hover);
     color: #2a2a2a;
+}
+
+.dark .progressDiv {
+    background: #3a3a3a;
+}
+
+.progressDiv .progress {
+    width: 0%;
+    height: 20px;
+    background: #00ffcc;
+    color: #2a2a2a;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 0 8px 0 0;
+    text-align: right;
+    border-radius: 3px;
+    overflow: visible;
+    white-space: nowrap;
+    padding: 0 0.5em;
 }
 
 
