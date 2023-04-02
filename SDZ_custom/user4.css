@@ -29,29 +29,30 @@
 	
 
 
-    --primary-50: #e2fff9;
-    --primary-100: #befff2;
-    --primary-200: #aaffed;
-    --primary-300: #75ffe3;
-    --primary-400: #3cffd7;
-    --primary-500: #17ffcf;
-    --primary-600: #0ce7ba;
-    --primary-700: #0dc59f;
-    --primary-800: #129d80;
-    --primary-900: #137c67;
-    --primary-950: #136e5c;
+    --primary-50: #e3ffff;
+    --primary-100: #bfffff;
+    --primary-200: #aaffff;
+    --primary-300: #74ffff;
+    --primary-400: #40ffff;
+    --primary-500: #17ffff;
+    --primary-600: #0de7e7;
+    --primary-700: #0ec7c7;
+    --primary-800: #139f9f;
+    --primary-900: #137c7c;
+    --primary-950: #136a6a;
 
-    --secondary-50: #e2fff9;
-    --secondary-100: #befff2;
-    --secondary-200: #aaffed;
-    --secondary-300: #75ffe3;
-    --secondary-400: #3cffd7;
-    --secondary-500: #17ffcf;
-    --secondary-600: #0ce7ba;
-    --secondary-700: #0dc59f;
-    --secondary-800: #129d80;
-    --secondary-900: #137c67;
-    --secondary-950: #136e5c;
+    --secondary-50: #e3ffff;
+    --secondary-100: #bfffff;
+    --secondary-200: #aaffff;
+    --secondary-300: #74ffff;
+    --secondary-400: #40ffff;
+    --secondary-500: #17ffff;
+    --secondary-600: #0de7e7;
+    --secondary-700: #0ec7c7;
+    --secondary-800: #139f9f;
+    --secondary-900: #137c7c;
+    --secondary-950: #136a6a;
+
 
     --neutral-50: #f9fafb;
     --neutral-100: #f1f1f1;
@@ -173,5 +174,9 @@ button.svelte-1g805jl {
     font-size: 1em;
     font-weight: normal;
     line-break: anywhere;
+}
+
+.extra-network-cards .card:hover {
+    box-shadow: 0 0 2px 0.3em #00f4f4;
 }
 
