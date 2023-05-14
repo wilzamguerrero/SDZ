@@ -1,39 +1,39 @@
 ESRGAN
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-BrightenRedux_200k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKDDetoon_97500_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-YandereInpaint_375000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NoiseToner-Poisson-Detailed_108000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NoiseToner-Uniform-Detailed_100000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_CountryRoads_377000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_fatal_Anime_500000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Fatality_Comix_260000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_foolhardy_Remacri.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NickelbackFS_72000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Siax_200k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKDSuperscale_Artisoft_120000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Superscale-Artisoftject_210000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Superscale-SP_178000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-UltraYandere_300k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-UltraYandere-Lite_280k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-YandereNeoXL_200k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_RealisticRescaler_100000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Valar_v1.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4xPSNR.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Typescale_175k.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8xPSNR.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/16xPSNR.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/A_ESRGAN_Single.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/BSRGAN.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/BSRGANx2.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/BSRNet.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/LADDIER1_282500_G.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/lollypop.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/sudo_rife4_269.662_testV1_scale1.pth
-https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/WaifuGAN_v3_30000.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-BrightenRedux_200k.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKDDetoon_97500_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-YandereInpaint_375000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NoiseToner-Poisson-Detailed_108000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NoiseToner-Uniform-Detailed_100000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_CountryRoads_377000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_fatal_Anime_500000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Fatality_Comix_260000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_foolhardy_Remacri.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NickelbackFS_72000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Siax_200k.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKDSuperscale_Artisoft_120000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Superscale-Artisoftject_210000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Superscale-SP_178000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-UltraYandere_300k.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-UltraYandere-Lite_280k.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-YandereNeoXL_200k.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_RealisticRescaler_100000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Valar_v1.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4xPSNR.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Typescale_175k.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8xPSNR.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/16xPSNR.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/A_ESRGAN_Single.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/BSRGAN.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/BSRGANx2.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/BSRNet.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/LADDIER1_282500_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/lollypop.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/sudo_rife4_269.662_testV1_scale1.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/WaifuGAN_v3_30000.pth
 
 GFPGAN
-https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.3.pth
-https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.4.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.3.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.4.pth
 
