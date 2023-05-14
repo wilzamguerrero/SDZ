@@ -3,5 +3,6 @@ wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SD
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Upscalers.txt
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Extensions.txt
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_ControlNet.txt
+wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_config.json -O config.json
 #wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/config.json
 #wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/api.py -O modules/api/api.py
