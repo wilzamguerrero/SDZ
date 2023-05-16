@@ -1,4 +1,4 @@
-wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/user4.css -O user.css
+wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_user.css -O user.css
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/multi_frame_render.py -O /scripts/multi_frame_render.py
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Upscalers.txt
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Extensions.txt
