@@ -220,7 +220,7 @@
     "control_net_no_detectmap": false,
     "control_net_detectmap_autosaving": false,
     "control_net_allow_script_control": true,
-    "control_net_sync_field_args": false,
+    "control_net_sync_field_args": true,
     "controlnet_show_batch_images_in_ui": false,
     "controlnet_increment_seed_during_batch": false,
     "image_browser_active_tabs": "txt2img, img2img, txt2img-grids, img2img-grids, Extras, Favorites, Others, Maintenance",
