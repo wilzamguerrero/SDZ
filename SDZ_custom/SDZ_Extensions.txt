@@ -4,6 +4,7 @@ git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git
 git clone https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
 git clone https://github.com/etherealxx/batchlinks-webui.git
 git clone https://github.com/camenduru/sd-webui-tunnels
+git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen.git
 #git clone https://github.com/canisminor1990/sd-web-ui-kitchen-theme.git
 #git clone https://github.com/v8hid/infinite-zoom-automatic1111-webui.git
 #git clone https://github.com/Extraltodeus/depthmap2mask.git
