@@ -1,7 +1,7 @@
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_user.css -O user.css
 #wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/multi_frame_render.py -O /scripts/multi_frame_render.py
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Upscalers.txt
-wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Extensions.txt
+#wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_Extensions.txt
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_ControlNet.txt
 wget --timestamping https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/SDZ_config.json -O config.json
 #wget --timestamping https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui/master/modules/api/api.py -O modules/api/api.py
