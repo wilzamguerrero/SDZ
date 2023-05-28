@@ -1,11 +1,7 @@
 
 
-# Stable Diffusion Z Colab
-It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab with the custom path directory, easy and simply, just click on the icon, work with models V1.5 and V2.1, have fun !!
+# <p align="center">SDZ Colab</a></p>
 
-<p>More information and tools about &nbsp;<a href="https://wilzamguerrero.ml/Stable-Diffusion-Z-f99cc3fb50374ffda3949087ab85f3a4" rel="nofollow"><img src="https://img.shields.io/badge/%E2%9A%AA%20AI%20-%26%20Design-blue" alt="ai design" style="max-width: 100%;"></a></p>
-
-<br>
 <br>
 
 <p align="center">
@@ -16,32 +12,15 @@ It is a simple adaptation of AUTOMATIC1111 Web Ui so that everyone can use colab
  &nbsp;
  &nbsp;
  &nbsp;
-----------------------
-```
->>> with these extensions activated and ready.
-
-✔️ painthua
-✔️ depthmap2mask
-✔️ dreambooth
-✔️ pix2pix
-✔️ ultimate upscale
-✔️ civitai browser
-✔️ civitai helper
-✔️ images browser
-✔️ tagcomplete
-✔️ kohya
-✔️ controlnet
-✔️ openpose editor
-✔️ posex
-✔️ Aspect Ratio selector
-✔️ depth lib
-✔️ two shot
-✔️ openOutpaint
-✔️ batchlinks
+ 
+<div align="center">It is a simple adaptation of AUTOMATIC1111 Web Ui</div>
+<div align="center">easy and simply, just click on the icon, have fun !!</div>
+<div align="center">More information and tools &nbsp;<a href="https://wilzamguerrero.ml/Stable-Diffusion-Z-f99cc3fb50374ffda3949087ab85f3a4" rel="nofollow"><img src="https://img.shields.io/badge/%E2%9A%AA%20AI%20-%26%20Design-blue" alt="ai design" style="max-width: 100%;"</div>
 
 
-```
-<details><summary><h3>©️ Credits for so good implementation, help and ideas to below.</h3></summary>
+
+
+<div align="center"><details><summary><h5>©️ Credits for so good implementation, help and ideas to below.</h5></summary>
 
 - https://github.com/TheLastBen/fast-stable-diffusion
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
