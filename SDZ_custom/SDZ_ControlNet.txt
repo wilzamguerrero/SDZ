@@ -14,27 +14,27 @@
 #gdown --no-cookies https://huggingface.co/uwg/modelz_base/resolve/main/ControlNet_11_Models/tileE_cn11.safetensors  
 
 
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth"
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth
+gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
 
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_depth-fp16.safetensors"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_keypose-fp16.safetensors"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_openpose-fp16.safetensors"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_seg-fp16.safetensors""
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors"
-gdown --no-cookies --output /content/SDZ/extensions/controlnet/models/ "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_depth-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_keypose-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_openpose-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_seg-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors
+gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors
 
