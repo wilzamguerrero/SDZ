@@ -180,3 +180,7 @@ button.svelte-1g805jl {
     box-shadow: 0 0 2px 0.3em #00f4f4;
 }
 
+.fixed-height.svelte-g4rw9.svelte-g4rw9 {
+    min-height: 900px;
+}
+
