@@ -29,6 +29,7 @@ gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/mai
 gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth
 gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
 gdown --no-cookies https://civitai.com/api/download/models/85428 -O lightingBasedPicture_v10.safetensors
+gdown --no-cookies https://civitai.com/api/download/models/111973 -O controlnetQRPatternQR_v20.safetensors
 
 gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors
 gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors
