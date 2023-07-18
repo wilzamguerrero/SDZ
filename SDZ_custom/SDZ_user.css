@@ -74,7 +74,7 @@
 
 
 .grid-container.svelte-g4rw9.svelte-g4rw9 {
-    /* display: grid; */
+    display: block;
     grid-template-rows: var(--grid-rows);
     grid-template-columns: var(--grid-cols);
     gap: var(--spacing-lg);
