@@ -192,3 +192,17 @@ button.svelte-1g805jl {
     min-height: 900px;
 }
 
+element.style {
+    overflow-y: auto;
+    max-height: 100vh;
+    min-height: initial;
+    flex-grow: 1;
+}
+
+
+div.gradio-container {
+    max-height: 100vh;
+    overflow-y: auto;
+    max-width: unset !important;
+}
+
