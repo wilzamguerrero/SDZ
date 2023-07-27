@@ -177,6 +177,12 @@ button.svelte-1g805jl {
     background-image: url('https://raw.githubusercontent.com/wilzamguerrero/SDZ/main/SDZ_custom/icon/card-no-preview.jpg');
 }
 
+.extra-network-cards {
+    height: 180px;
+    overflow: scroll;
+    resize: vertical;
+}
+
 
 .extra-network-cards .card .actions .name {
     font-size: 1em;
