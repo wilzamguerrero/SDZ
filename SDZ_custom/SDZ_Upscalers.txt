@@ -32,6 +32,10 @@ wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/LADD
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/lollypop.pth
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/sudo_rife4_269.662_testV1_scale1.pth
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/WaifuGAN_v3_30000.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/UniversalUpscaler/4x_UniversalUpscalerV2-Neutral_115000_swaG.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/UniversalUpscaler/4x_UniversalUpscalerV2-Sharp_101000_G.pth
+wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/UniversalUpscaler/4x_UniversalUpscalerV2-Sharper_103000_G.pth
+
 
 GFPGAN
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.3.pth
