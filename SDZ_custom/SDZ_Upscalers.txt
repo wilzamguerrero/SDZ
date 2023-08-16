@@ -35,9 +35,7 @@ wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/Waif
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/UniversalUpscaler/4x_UniversalUpscalerV2-Neutral_115000_swaG.pth
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/UniversalUpscaler/4x_UniversalUpscalerV2-Sharp_101000_G.pth
 wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/UniversalUpscaler/4x_UniversalUpscalerV2-Sharper_103000_G.pth
-
-
-GFPGAN
-wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.3.pth
-wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.4.pth
+#GFPGAN
+#wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.3.pth
+#wget --timestamping https://huggingface.co/uwg/upscaler/resolve/main/GFPGAN/GFPGANv1.4.pth
 
