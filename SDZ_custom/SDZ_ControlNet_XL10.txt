@@ -1,1 +1,2 @@
-g
+gdown --no-cookies https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors -O controlnet-depth-sdxl-1.0.safetensors
+gdown --no-cookies https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors -O controlnet-canny-sdxl-1.0.safetensors
