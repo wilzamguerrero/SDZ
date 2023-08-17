@@ -13,7 +13,6 @@
 #gdown --no-cookies https://huggingface.co/uwg/modelz_base/resolve/main/ControlNet_11_Models/softedge_cn11.safetensors
 #gdown --no-cookies https://huggingface.co/uwg/modelz_base/resolve/main/ControlNet_11_Models/tileE_cn11.safetensors  
 
-
 gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth
 gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
 gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth
@@ -30,7 +29,6 @@ gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/mai
 gdown --no-cookies https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
 gdown --no-cookies https://civitai.com/api/download/models/85428 -O lightingBasedPicture_v10.safetensors
 gdown --no-cookies https://civitai.com/api/download/models/111973 -O controlnetQRPatternQR_v20.safetensors
-gdown --no-cookies https://huggingface.co/yzd-v/DWPose/resolve/main/dw-ll_ucoco_384.pth
 
 gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors
 gdown --no-cookies https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors
