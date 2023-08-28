@@ -236,6 +236,16 @@ div.gradio-container {
   background-color: #383838;
 }
 
+.lg.primary.gradio-button.svelte-cmf5ev {
+  color: #383838;
+}
+
+.lg.primary.gradio-button.svelte-cmf5ev:hover {
+  color: #ffffff;
+}
+
+
+
 
 
 
