@@ -218,6 +218,27 @@ div.gradio-container {
 }
 
 
+/* Estilos para el scrollbar */
+::-webkit-scrollbar {
+  width: 14px; /* Ancho del scrollbar */
+}
+
+/* Estilos para el track del scrollbar */
+::-webkit-scrollbar-track {
+  background-color: #333; /* Color de fondo del track */
+}
+
+/* Estilos para el thumb del scrollbar */
+::-webkit-scrollbar-thumb {
+  background-color: #666; /* Color del thumb */
+}
+
+/* Estilos para el thumb del scrollbar cuando se le da hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #999; /* Color del thumb en hover */
+}
+
+
 
 
 
