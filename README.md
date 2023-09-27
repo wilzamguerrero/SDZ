@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/wilzamguerrero/SDZ/blob/main/SDZ_SageMaker.ipynb?theme=dark">
+  <a href="https://studiolab.sagemaker.aws/import/github/wilzamguerrero/SDZ/blob/main/SDZ_SageMaker.ipynb?theme=dark">
   <img src="https://github.com/wilzamguerrero/SDZ/blob/main/SDZ_custom/icon/SDZ3.png" alt="image">
 </a></p>
 
