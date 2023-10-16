@@ -361,7 +361,7 @@
     "controlnet_disable_control_type": false,
     "controlnet_disable_openpose_edit": false,
     "controlnet_ignore_noninpaint_mask": false,
-    "faceswaplab_model": "/home/studio-lab-user/content/SDZ/models/faceswaplab/inswapper_128.onnx",
+    "faceswaplab_model": "/home/studio-lab-user/SDZ/models/faceswaplab/inswapper_128.onnx",
     "faceswaplab_use_gpu": false,
     "faceswaplab_keep_original": false,
     "faceswaplab_units_count": 3,
