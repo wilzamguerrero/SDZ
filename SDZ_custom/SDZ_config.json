@@ -379,7 +379,7 @@
     "faceswaplab_default_upscaled_swapper_improved_mask": false,
     "faceswaplab_default_upscaled_swapper_face_restorer_visibility": 1,
     "faceswaplab_default_upscaled_swapper_face_restorer_weight": 1,
-    "faceswaplab_default_upscaled_swapper_erosion": 1
+    "faceswaplab_default_upscaled_swapper_erosion": 1,
     "animatediff_model_path": "/home/studio-lab-user/SDZ/models/Stable-diffusion",
     "animatediff_optimize_gif_palette": false,
     "animatediff_optimize_gif_gifsicle": false,
