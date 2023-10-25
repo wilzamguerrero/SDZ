@@ -84,7 +84,7 @@
     "training_enable_tensorboard": false,
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
-    "sd_model_checkpoint": "deliberate_v2.safetensors [9aba26abdf]",
+    "sd_model_checkpoint": "",
     "sd_checkpoints_limit": 1,
     "sd_checkpoints_keep_in_cpu": true,
     "sd_checkpoint_cache": 0,
