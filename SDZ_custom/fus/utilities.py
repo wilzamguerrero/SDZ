@@ -20,7 +20,7 @@ from facefusion.vision import detect_fps
 import os
 import tempfile
 
-TEMP_DIRECTORY_PATH = '/content/temp'
+TEMP_DIRECTORY_PATH = '/content/facefusion/temp'
 if not os.path.exists(TEMP_DIRECTORY_PATH):
     os.makedirs(TEMP_DIRECTORY_PATH)
 
