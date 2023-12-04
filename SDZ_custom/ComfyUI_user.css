@@ -1,22 +1,24 @@
 .comfy-menu {
   opacity: 0;
   transition: opacity 0.5s ease;
-  width: 200px;
+  width: 170px;
   font-size: 15px;
   position: absolute;
-  top: 2%;
-  right: 1%;
+  top: 0%;
+  right: 0%;
   background-color: #333333;
   color: #818181;
   text-align: center;
   z-index: 100;
-  width: 170px;
   display: flex;
   flex-direction: column;
   align-items: center;
   border-radius: 5px;
   box-shadow: 2px 2px 5px 2px #141414;
+  transform: scale(0.8);
+  transform-origin: top right;
 }
 .comfy-menu:hover {
   opacity: 1;
 }
+
