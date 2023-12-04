@@ -1,7 +1,8 @@
 .comfy-menu {
+  padding-top:-1000px;
   opacity: 0;
   transition: opacity 0.5s ease;
-  width: 170px;
+  width: 145px;
   font-size: 15px;
   position: absolute;
   top: 0%;
@@ -15,10 +16,23 @@
   align-items: center;
   border-radius: 5px;
   box-shadow: 2px 2px 5px 2px #141414;
-  transform: scale(0.8);
-  transform-origin: top right;
+  transform: scale(0.9);
 }
 .comfy-menu:hover {
   opacity: 1;
 }
+
+#dialog {
+    box-shadow: 0 0 20px #000000;
+}
+#comfy-settings-dialog {
+    box-shadow: 0 0 20px #000000;
+}
+
+.comfy-menu button, .comfy-modal button {
+    font-size: 15px;
+}
+
+
+
 
