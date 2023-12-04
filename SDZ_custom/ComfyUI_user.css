@@ -2,8 +2,8 @@
   padding-top:-1000px;
   opacity: 0;
   transition: opacity 0.5s ease;
-  width: 145px;
-  font-size: 15px;
+  width: 110px;
+  font-size: 14px;
   position: absolute;
   top: 0%;
   right: 0%;
@@ -16,7 +16,7 @@
   align-items: center;
   border-radius: 5px;
   box-shadow: 2px 2px 5px 2px #141414;
-  transform: scale(0.9);
+
 }
 .comfy-menu:hover {
   opacity: 1;
@@ -30,8 +30,65 @@
 }
 
 .comfy-menu button, .comfy-modal button {
+    font-size: 13px;
+}
+
+.comfy-menu-btns button {
+    font-size: 10px;
+    width: 50%;
+    color: var(--descrip-text) !important;
+}
+
+
+.comfy-modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    padding: 30px 30px 10px 30px;
+    background-color: var(--comfy-menu-bg);
+    color: var(--error-text);
+    box-shadow: 0 0 20px #000000;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    max-width: 80vw;
+    max-height: 80vh;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    justify-content: center;
+    font-family: monospace;
     font-size: 15px;
 }
+
+
+.comfy-menu {
+    font-size: 13px;
+
+}
+
+#batchCountInputRange {
+    width: 110px; /* Cambia el ancho a 200px */
+    height: 30px; /* Cambia la altura a 30px */
+    /* Añade cualquier otro estilo que necesites */
+}
+
+
+.comfy-menu span.drag-handle {
+    position: relative !important;
+}
+
+button.comfy-settings-btn {
+    position: relative !important;
+    margin-right: 5px;
+    margin-left: 20px;
+
+}
+
+
+
+
+
+
 
 
 
