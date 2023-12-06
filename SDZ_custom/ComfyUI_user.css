@@ -84,6 +84,14 @@ button.comfy-settings-btn {
 
 }
 
+.litegraph.litecontextmenu,
+.litegraph.litecontextmenu.dark {
+    z-index: 9999 !important;
+    background-color: var(--comfy-menu-bg) !important;
+    filter: none !important; /* Desactiva el filtro */
+}
+
+
 
 
 
